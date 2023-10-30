@@ -100,3 +100,8 @@
 
 INICIAR SESION
 
+cd /etc/php/8.1/apache2/
+
+vi php.ini
+
+max_input_vars = 5000
